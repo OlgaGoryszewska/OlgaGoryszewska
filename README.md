@@ -9,7 +9,7 @@ I am a Ux/ui designer and a frontend development student on the secound year at 
 - 💬 Ask me about ux/ui design, HTML,CSS, basic JS
 - 📫 How to reach me: olga.goryszewska@gmail.com
 - ⚡ Fun fact: i wear turtle neck and blazer...
-- Connect with me:
+
 
 
 
