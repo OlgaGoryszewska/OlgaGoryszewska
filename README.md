@@ -4,10 +4,9 @@ Welcome to my portfolio! I'm Olga Goryszewska, a frontend development student an
 
 ## About Me
 
-- 🔭 I’m currently working on improving my skils in Java Script
+- 🔭 I’m currently working on improving my skills in Java Script
 - 🌱 I’m currently learning interactive frontend development
-- 👯 I’m looking to collaborate on startups for comanies with big budgets
-- 🤔 I’m looking for help with getting intership
+- 👯 I’m looking to collaborate on startups
 - 💬 Ask me about ux/ui design, HTML,CSS, basic JS
 - 📫 How to reach me: olga.goryszewska@gmail.com
 - ⚡ Fun fact: i wear turtle neck and blazer...
@@ -51,13 +50,12 @@ Welcome to my portfolio! I'm Olga Goryszewska, a frontend development student an
 
 ## Contact
 
+## Contact
+
 - **Email:** olga.goryszewska@gmail.com
 - **LinkedIn:** https://no.linkedin.com/in/olga-goryszewska-881754201/no
 - **Portfolio Website:** www.devgoddess.no
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
-
-
-
 
 
