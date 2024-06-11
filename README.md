@@ -46,7 +46,7 @@ Welcome to my portfolio! I'm Olga Goryszewska, a frontend development student an
 ## Education
 
 - **Degree in [UX- design 60 points]** - Noroff, 2022
-- **Degree in [Frontend Development 60 points]** - Noroff, Now
+- **Degree in [Frontend Development 120 points]** - Noroff, Now
 
 ## Contact
 
