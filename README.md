@@ -12,10 +12,32 @@ Welcome to my portfolio! I'm Olga Goryszewska, a frontend development student an
 - ⚡ Fun fact: i wear turtle neck and blazer...
 
 ## Skills
+UX & Frontend Development:
 
-- **Programming Languages:** HTML, CSS, Java Script
-- **Design:** Adobe Illustrator, Figma, Adobe Xd
-- **Tools & Technologies:** Git Hub, VS Code, netlify, Digital Ocean
+UX Research, Design Thinking, Wireframing & Prototyping (Figma, Adobe XD)
+Advanced CSS (Grid, Flexbox, Custom Animations, CSS Variables, BEM)
+
+Development & Performance:
+
+JavaScript (ES6+), TypeScript, React (Hooks, Context API)
+GSAP Animations, Tailwind CSS, Bootstrap
+Web Performance Optimization (Lighthouse, Lazy Loading, PWA, Code Splitting)
+API Integration (REST, GraphQL, Fetch, Axios)
+CMS & Headless CMS (WordPress, Wix, Strapi, Sanity)
+Web Performance (Lighthouse, Lazy Loading, PWA, Code Splitting)
+
+Tools & Methodologies:
+
+CI/CD pipelines, GitHub, Vercel, Netlify
+Testing (Jest, Cypress)
+State Management (Redux, Zustand)
+Agile & Project Management (Scrum, Jira, Trello, Notion)
+
+Soft Skills:
+
+Effective Communication, Problem-Solving, and Active Listening
+Team Collaboration, Mentorship, Conflict Resolution, Attention to Detail & Quality Assurance
+Client Relationship Management, Business Operations, and Brand Strategy
 
 ## Projects
 
@@ -54,7 +76,7 @@ Welcome to my portfolio! I'm Olga Goryszewska, a frontend development student an
 
 - **Email:** olga.goryszewska@gmail.com
 - **LinkedIn:** https://no.linkedin.com/in/olga-goryszewska-881754201/no
-- **Portfolio Website:** www.devgoddess.no
+- **Portfolio Website:** www.nuux.no
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
 
