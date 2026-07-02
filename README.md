@@ -1,83 +1,113 @@
-### Hi there 👋
+# Hi, I'm Olga Goryszewska
 
-Welcome to my portfolio! I'm Olga Goryszewska, a frontend development student and graduated UX designer. This repository serves as a showcase of my skills, projects, and experiences.
+Product Engineer, Frontend Developer, and UX Designer based in Bergen, Norway. I build full-scale web applications from concept to deployment, combining UX research, product thinking, and modern frontend engineering. I am open to remote product and frontend roles internationally.
 
-## About Me
+I focus on React, Next.js, TypeScript, Progressive Web Apps, offline-first workflows, and user-centered product design. My work sits at the intersection of interface quality, technical architecture, and real operational needs.
 
-- 🔭 I’m currently working on improving my skills in Java Script
-- 🌱 I’m currently learning interactive frontend development
-- 👯 I’m looking to collaborate on startups
-- 💬 Ask me about ux/ui design, HTML,CSS, basic JS
-- 📫 How to reach me: olga.goryszewska@gmail.com
-- ⚡ Fun fact: i wear turtle neck and blazer...
+## Currently Building
 
-## Skills
-UX & Frontend Development:
+### FuelFlo
 
-UX Research, Design Thinking, Wireframing & Prototyping (Figma, Adobe XD)
-Advanced CSS (Grid, Flexbox, Custom Animations, CSS Variables, BEM)
+FuelFlo is a production-grade fuel delivery and generator management platform for large-scale events and infrastructure projects.
 
-Development & Performance:
+I designed and developed the product from zero, including product definition, UX research, system architecture, frontend implementation, offline workflows, and deployment.
 
-JavaScript (ES6+), TypeScript, React (Hooks, Context API)
-GSAP Animations, Tailwind CSS, Bootstrap
-Web Performance Optimization (Lighthouse, Lazy Loading, PWA, Code Splitting)
-API Integration (REST, GraphQL, Fetch, Axios)
-CMS & Headless CMS (WordPress, Wix, Strapi, Sanity)
-Web Performance (Lighthouse, Lazy Loading, PWA, Code Splitting)
+Key features:
 
-Tools & Methodologies:
+- Offline-first PWA for field technicians working with unstable network access
+- Role-based dashboards for technicians, managers, hire desks, suppliers, and event teams
+- Generator, tank, fuel delivery, technician, and project management workflows
+- QR-code-driven generator flows and transaction tracking
+- Dynamic PDF evidence reports for operational review and billing
+- Mobile-first interface optimized for field use
 
-CI/CD pipelines, GitHub, Vercel, Netlify
-Testing (Jest, Cypress)
-State Management (Redux, Zustand)
-Agile & Project Management (Scrum, Jira, Trello, Notion)
+Tech stack:
 
-Soft Skills:
+`Next.js` | `React` | `TypeScript` | `Supabase` | `PostgreSQL` | `IndexedDB` | `PWA` | `Service Workers` | `Tailwind CSS` | `REST APIs` | `Vercel` | `GitHub`
 
-Effective Communication, Problem-Solving, and Active Listening
-Team Collaboration, Mentorship, Conflict Resolution, Attention to Detail & Quality Assurance
-Client Relationship Management, Business Operations, and Brand Strategy
+## What I Work With
 
-## Projects
+Frontend:
 
-### In Project Exam 1/ Ceylon's House
+- React
+- Next.js App Router
+- TypeScript
+- JavaScript ES6+
+- Tailwind CSS
+- GSAP
+- Progressive Web Apps
+- REST and GraphQL APIs
 
-    I employed HTML, CSS, and JavaScript to dynamically present a blog sourced from WordPress. Through a headless WordPress setup, I crafted a personalized frontend using Visual Studio Code, showcasing a blend of creativity and technical finesse in web development. Explore how this project highlights my skills in building modern, interactive, and seamlessly integrated web experiences.
+UX and Product:
 
-- **GitHub Repository:** https://github.com/Noroff-FEU-Assignments/project-exam-1-OlgaGoryszewska/blob/main/README.md
+- UX research
+- Wireframing and prototyping
+- Design systems
+- Accessibility and WCAG
+- Mobile-first design
+- Client workshops
+- Product strategy
+- Figma
 
-- **Live Demo:** https://www.ceylonshouse.no
+Infrastructure and Tools:
 
-### Semester Project 1/ Science Museum
+- Supabase and PostgreSQL
+- IndexedDB
+- Service Workers
+- Vercel and Netlify
+- Git and GitHub
+- CI/CD
+- Jest and Cypress
+- Agile and Scrum
 
-    A captivating museum webpage designed to evoke mystery and allure, utilizing a sleek dark mode to set the ambiance for an enchanting 'Night in the Museum' experience. Crafted exclusively with HTML and CSS, the site boasts interactivity, user-friendliness, and a touch of elegance with subtle transitions and animations. Explore the seamless blend of aesthetics and functionality in this immersive online museum showcase.
+## Experience
 
-- **GitHub Repository:** https://github.com/OlgaGoryszewska/2022-12-18-_FED1-22_semesterproject_OlgaGoryszewska_github/blob/main/README.md
+I have 3+ years of experience designing and building responsive web applications, SaaS tools, dashboards, and operational platforms for clients and real business workflows.
 
-- **Live Demo:** https://jade-maamoul-7a5679.netlify.app/
+Before moving deeper into product engineering, I worked as a UX designer and ran a client-facing business for over 13 years. That background shaped the way I build: practical, user-focused, and attentive to the small details that make a product feel clear, trustworthy, and useful.
 
-### Cross-Course Project/ Rainy Days
+I also mentored frontend students at Noroff School of Technology and Digital Media, supporting them with JavaScript, React, Git, Tailwind CSS, CSS, debugging, and UI/UX best practices.
 
-    Uniting all subjects throughout the year, this comprehensive endeavor culminates in a dynamic webpage for a jacket company. Hardcoded in Visual Studio Code, the site seamlessly integrates HTML and CSS, offering a sophisticated interface. Notably, it dynamically fetches product data from a headless WordPress setup, showcasing a synthesis of technical prowess and multi-disciplinary collaboration in this expansive cross-curricular initiative.
+## Selected Projects
 
-- **GitHub Repository:** https://github.com/OlgaGoryszewska/Rainy-Days/blob/main/README/README.md
+### Lanka Travel Booking App
 
-- **Live Demo:** https://devgoddessno.netlify.app/
+A responsive travel booking app with a Figma-designed interface, GSAP animations, lazy loading, and modern React state management.
+
+`React` | `GSAP` | `Tailwind CSS` | `Context API`
+
+Live: https://lanka-travel.netlify.app
+
+### Pure Wear by Gabi
+
+An end-to-end UX case study covering user interviews, competitor analysis, personas, wireframes, and high-fidelity Figma prototypes.
+
+### Water Scarcity
+
+A UX research and UI design project exploring user pain points, accessibility, and design solutions around global water access challenges.
+
+### Ceylon's House
+
+A headless WordPress blog frontend built with HTML, CSS, and JavaScript, focused on dynamic content, responsive layout, and clean user experience.
+
+Live: https://www.ceylonshouse.no
 
 ## Education
 
-- **Degree in [UX- design 60 points]** - Noroff, 2022
-- **Degree in [Frontend Development 120 points]** - Noroff, Now
+- Frontend Development, Noroff School of Technology and Digital Media, 2022-2024
+- UX Design, Noroff School of Technology and Digital Media, 2021-2022
 
-## Contact
+## Languages
 
-## Contact
+- Polish: Native
+- English: Fluent
+- Norwegian: Fluent
 
-- **Email:** olga.goryszewska@gmail.com
-- **LinkedIn:** https://no.linkedin.com/in/olga-goryszewska-881754201/no
-- **Portfolio Website:** www.nuux.no
+## Let's Connect
 
-Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
-
+- Email: olga.goryszewska@gmail.com
+- LinkedIn: https://linkedin.com/in/olga-goryszewska
+- GitHub: https://github.com/OlgaGoryszewska
+- Behance: https://behance.net/olgagoryszewska
+- Portfolio: http://www.nuux.no
 
