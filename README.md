@@ -68,30 +68,6 @@ Before moving deeper into product engineering, I worked as a UX designer and ran
 
 I also mentored frontend students at Noroff School of Technology and Digital Media, supporting them with JavaScript, React, Git, Tailwind CSS, CSS, debugging, and UI/UX best practices.
 
-## Selected Projects
-
-### Lanka Travel Booking App
-
-A responsive travel booking app with a Figma-designed interface, GSAP animations, lazy loading, and modern React state management.
-
-`React` | `GSAP` | `Tailwind CSS` | `Context API`
-
-Live: https://lanka-travel.netlify.app
-
-### Pure Wear by Gabi
-
-An end-to-end UX case study covering user interviews, competitor analysis, personas, wireframes, and high-fidelity Figma prototypes.
-
-### Water Scarcity
-
-A UX research and UI design project exploring user pain points, accessibility, and design solutions around global water access challenges.
-
-### Ceylon's House
-
-A headless WordPress blog frontend built with HTML, CSS, and JavaScript, focused on dynamic content, responsive layout, and clean user experience.
-
-Live: https://www.ceylonshouse.no
-
 ## Education
 
 - Frontend Development, Noroff School of Technology and Digital Media, 2022-2024
