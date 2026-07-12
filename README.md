@@ -13,13 +13,13 @@ FuelFlo is a production-grade fuel delivery and generator management platform fo
 I designed and developed the product from zero, including product definition, UX research, system architecture, frontend implementation, offline workflows, and deployment.
 
 Key features:
-
+- native app optimized for field use
 - Offline-first PWA for field technicians working with unstable network access
 - Role-based dashboards for technicians, managers, hire desks, suppliers, and event teams
 - Generator, tank, fuel delivery, technician, and project management workflows
 - QR-code-driven generator flows and transaction tracking
 - Dynamic PDF evidence reports for operational review and billing
-- Mobile-first interface optimized for field use
+
 
 Tech stack:
 
